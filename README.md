@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IT security**
 
-- 💬 Ask me about **Android ,Mearn**
+- 💬 Ask me about **Android ,NodeJS ,React**
 
 - 📫 How to reach me **seifibr753@gmail.com**
 
