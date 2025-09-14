@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibr14060&label=Profile%20views&color=0e75b6&style=flat" alt="ibr14060" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ibr14060" target="blank"><img src="https://img.shields.io/twitter/follow/ibr14060?logo=twitter&style=for-the-badge" alt="ibr14060" /></a> </p>
+
 
 - 💬 Ask me about **Android ,NodeJS ,React**
 
